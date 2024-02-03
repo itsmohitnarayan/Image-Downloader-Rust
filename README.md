@@ -21,8 +21,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rust-image-downloader.git
-cd rust-image-downloader
+git clone https://github.com/itsmohitnarayan/Image-Downloader-Rust.git
+
+cd Image-Downloader-Rust
 ```
 
 2. Build and run the program:
