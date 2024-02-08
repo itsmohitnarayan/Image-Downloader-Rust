@@ -54,3 +54,5 @@ env_logger = "0.11.1"
 ```
 
 Feel free to contribute and improve this Rust image downloader! 🤝
+
+------------------------------------------------------------------------------
